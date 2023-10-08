@@ -13,6 +13,7 @@ namespace quizapp.Models
 
         public virtual User? User { get; set; }
         public virtual Question? Question { get; set; }
+            /*HEllo SIr how are you and what is your   query about .........*/
 
 
     }
